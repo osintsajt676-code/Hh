@@ -1,0 +1,1 @@
+run = "pip install -q aiogram aiohttp python-dotenv && python bot.py"
